@@ -1,0 +1,7 @@
+name: invmobs
+api-version: 1.12.2
+version: 1.0
+author: Julia0
+main: org.julia0.invmobs.Plugin
+description: Vot tak vot
+depend: []
